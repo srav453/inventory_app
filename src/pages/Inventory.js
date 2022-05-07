@@ -1,4 +1,5 @@
-import AddNewProduct from "../FunctionalComponent/AddNewProduct";
+
+import AddNewProduct from "../functionalcomponents/AddNewProduct";
 const Inventory = ()=> {
     console.log("Inventory Page");
     return (
